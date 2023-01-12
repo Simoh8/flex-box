@@ -1,0 +1,32 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    height: 400px;
+    width: 800;
+    border: 2px black;
+    display: flex;
+    flex-direction: row;
+    justify-items: flex-end;
+}
+.object1{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+}
+.object2{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+.object3{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+.object4{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
